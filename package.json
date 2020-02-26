@@ -6,8 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Juan Pablo Santos",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsantos17/functional-lenses-quito-lambda"
+  },
   "dependencies": {
     "immutable": "^4.0.0-rc.12",
     "ramda": "^0.27.0",
